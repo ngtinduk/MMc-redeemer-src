@@ -1,0 +1,9 @@
+{
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+    "max_vcc_uses": 4,
+    "concurrent_workers": 1,
+    "vcc_replace_timeout": 0,
+    "post_redeem_timeout": 0,
+    "authenticate_timeout": 10,
+    "proxyless": true
+}
